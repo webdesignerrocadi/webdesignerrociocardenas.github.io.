@@ -26,19 +26,12 @@
 <img src="02-ensalada.jpg"/></a></li><img src="04-pizza.jpg"/></a></li>
 </figure>
 
-
-
 <h2>&#x25BC;Achievements</h2>
-<p>Progress in this course (100%): <meter value="2" min="100" max="100"></meter>
+<p>Progress in this course (100%): <meter max="5000"  value="5000"></meter></p>
 
-<p>Progres en the Specialization Capstone (20%): <meter value="20" min="20" max="20"></meter>
+<p>Progres en the Specialization Capstone (20%): <meter max="2048"value="547" ></meter></p>
 
-<p>Progress in life goals (75%): <meter value="75" min="75" max="75"></meter>
-  
-  <meter min="10" max="30" value="29" optimum="20">valor 29</meter>
-<meter min="2" max="20" value="10">valor 10</meter>
-<meter min="10" low="15" high="25" max="30" value="22" optimum="20">valor 22</meter>
-
+<p>Progress in life goals (75%): <meter max="4100" value="2154""></meter></p>
 
 <h2>More About Me</h2>
 <h3>My Childhood</h3>
